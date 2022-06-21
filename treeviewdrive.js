@@ -1,4 +1,4 @@
-/**
+/** ce script permet d'afficher l'arborescence des dossiers et sous dossiers dans google drive.
  * Afficher l'arborescence du dossier parent et sous dossiers
  * Modifier uniquement NOM_DU_DOSSIER pour afficher l'arborescence 
  */
