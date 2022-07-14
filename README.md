@@ -1,7 +1,7 @@
 # treeview
 
 Ce script permet d'afficher l'arborescence des dossiers dans google drive.
-Pour qu'il fonctionne, il est recommandé de se connecter à son compte google ensuite se rendre sur <a href="https://script.google.com/">Apps Script </a>. Copier et coller le script dans l'éditor en fin cliquer sur exécuter pour voir le résultat. 
+Pour qu'il fonctionne, il est recommandé de se connecter à son compte google ensuite se rendre sur <a href="https://script.google.com/">Apps Script </a>. Copier et coller le script dans l'éditor ensuite cliquer sur exécuter pour voir le résultat. 
 
 /**
  * Afficher l'arborescence du dossier parent et sous dossiers
